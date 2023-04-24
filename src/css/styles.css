@@ -15,7 +15,7 @@ body {
 .search-form {
   display: flex;
   justify-content: center;
-  background-color: rgba(223, 225, 135, 0.5);
+  background-color: rgba(204, 225, 135, 0.5);
   padding: 10px;
 }
 input {
